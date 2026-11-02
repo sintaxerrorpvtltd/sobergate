@@ -1,0 +1,1 @@
+{"name":"sobergate","version":"0.1.0-alpha.1","description":"Build freely. Ship sober. Local review gates for coding agents.","type":"module","license":"Apache-2.0","bin":{"sg":"./bin/sg.js","sobergate":"./bin/sg.js"},"scripts":{"test":"node --test"},"engines":{"node":">=20"},"private":true}

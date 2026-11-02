@@ -1,0 +1,4 @@
+node_modules/
+.sobergate/
+*.log
+.DS_Store
